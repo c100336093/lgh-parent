@@ -1,0 +1,11 @@
+server:
+  port: 8761
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWithEureka: false #表示是否注册自身到eureka服务器， 做集群是设置成true 生产配置为true
+    fetchRegistry: false #表示是否从eureka服务器获得注册信息，生产配置为true
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka

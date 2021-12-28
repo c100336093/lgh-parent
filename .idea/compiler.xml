@@ -9,13 +9,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="lgh-system-interface" />
         <module name="lgh-zuul-gateway" />
+        <module name="lgh-system-service" />
         <module name="languohui-lgh-spring-boot-starter" />
-        <module name="lgh-basic-generator" />
         <module name="lgh-project-interface" />
         <module name="lgh-eureka-server" />
         <module name="lgh-basic-util" />
         <module name="lgh-config-server" />
-        <module name="lgh-system-service" />
+        <module name="lgh-basic-generator" />
         <module name="lgh-project-service" />
       </profile>
     </annotationProcessing>

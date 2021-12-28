@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/lgh-basic-parent/languohui-lgh-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lgh-basic-parent/languohui-lgh-spring-boot-starter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lgh-basic-parent/lgh-basic-generator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lgh-basic-parent/lgh-basic-generator/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lgh-basic-parent/lgh-basic-util/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lgh-basic-parent/lgh-basic-util/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lgh-basic-parent/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lgh-basic-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lgh-project-parent/lgh-project-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lgh-project-parent/lgh-project-interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lgh-project-parent/lgh-project-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lgh-project-parent/lgh-project-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lgh-supports-parent/lgh-config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lgh-supports-parent/lgh-config-server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lgh-supports-parent/lgh-eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lgh-supports-parent/lgh-eureka-server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lgh-supports-parent/lgh-zuul-gateway/src/main/java" charset="UTF-8" />

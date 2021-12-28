@@ -14,6 +14,7 @@
     <modules>
         <module>lgh-basic-util</module>
         <module>lgh-basic-generator</module>
+        <module>languohui-lgh-spring-boot-starter</module>
     </modules>
 
 
